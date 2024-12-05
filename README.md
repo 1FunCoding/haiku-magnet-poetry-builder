@@ -1,6 +1,8 @@
 # Interactive Haiku Magnet Poetry Builder
 <img width="1257" alt="image" src="https://github.com/user-attachments/assets/35385064-fccc-4a65-a2a9-15d0053319cb">
 <img width="1257" alt="image" src="https://github.com/user-attachments/assets/26e6c1b4-dbac-4fa9-9f91-8f1eafe16fad">
+<img width="1257" alt="image" src="https://github.com/user-attachments/assets/ce17f155-0d91-4d13-bd4f-a208646b1791">
+
 
 
 ## Overview
